@@ -1,4 +1,3 @@
-
 ---
 
 # PSUC Exam Previous Year Questions
@@ -13,8 +12,12 @@ The purpose of this repository is to provide a resource for students preparing f
 - **src**: This directory contains the source code for solving the PSUC exam questions.
 - **docs**: This directory contains documentation and explanations for the solutions provided.
 - **tests**: This directory contains test cases to verify the correctness of the solutions.
-- **LICENSE**: The license under which this repository is distributed.
-
+- **branches**: Under branches, you can find questions organized year-wise for easy access to specific year questions.
+  - **2023**: Previous year questions for 2023.
+  - **2022**: Previous year questions for 2022.
+  - **2021**: Previous year questions for 2021.
+  - ...
+  
 ## Usage
 To use this repository:
 1. Clone the repository to your local machine.
@@ -25,12 +28,8 @@ To use this repository:
 ## Contributing
 Contributions to this repository are welcome! If you have solutions to additional PSUC exam questions or improvements to existing solutions, feel free to open a pull request.
 
-## License
-This repository is licensed under the [MIT License](LICENSE).
-
 ## Disclaimer
 The solutions provided in this repository are for educational purposes only. While efforts have been made to ensure the correctness of the solutions, no guarantee is provided. Users are encouraged to verify the solutions independently.
 
 ---
 
-Feel free to modify it according to your specific needs and add more sections if necessary!
