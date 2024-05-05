@@ -1,7 +1,7 @@
 
 ---
 
-# PSUC Exam Previous Year Questions Solver
+# PSUC Exam Previous Year Questions
 
 ## Introduction
 This repository contains solutions to the previous year questions of PSUC (Problem Solving Using Computers) exam conducted by MIT Manipal. PSUC is a test that evaluates candidates' problem-solving skills using computers.
